@@ -1,0 +1,4 @@
+.env
+.venv
+.deepagents
+__pycache__
